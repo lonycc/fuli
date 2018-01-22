@@ -13,6 +13,6 @@
 
 > V2骚话, 采集自https://www.nihaowua.com, 跑了上万次都抓不全啊.
 
-**guanren3.html**
+**guanren.html**
 
 > 从某个网站抓到的m3u8地址列表, 需要配合Chrome扩展[Native HLS Playback](https://chrome.google.com/webstore/detail/native-hls-playback/emnphkkblegpebimobpbekeedfgemhof?utm_source=chrome-ntp-icon)播放.
