@@ -303,3 +303,7 @@
 [windows93](http://www.windows93.net/)
 
 [algorithm](https://algorithm.yuanbin.me/)
+
+[ustc dns logs](http://202.38.64.1/dns/)
+
+[web front](https://simpl.info/)
