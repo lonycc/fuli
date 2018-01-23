@@ -180,11 +180,11 @@
 
 [fedora](http://dl.fedoraproject.org/pub/)
 
-[freebsd](ftp://ftp.iij.ad.jp/pub/)
+[ftp://ftp.iij.ad.jp/pub/](ftp://ftp.iij.ad.jp/pub/)
 
-[linux](ftp://ftp.ring.gr.jp/)
+[ftp://ftp.ring.gr.jp/](ftp://ftp.ring.gr.jp/)
 
-[linux](ftp://ftp.belnet.be/)
+[ftp://ftp.belnet.be/](ftp://ftp.belnet.be/)
 
 [linux toy](http://i.linuxtoy.org/docs/guide/index.html)
 
@@ -257,3 +257,49 @@
 [chromefor](https://www.chromefor.com/)
 
 [ping online](http://ping.eu/ping/)
+
+[amazing windows apps](https://amazing-apps.gitbooks.io/windows-apps-that-amaze-us/content/zh-CN/)
+
+[querylist](https://querylist.cc/)
+
+[w3school](https://www.w3cschool.cn/tutorial)
+
+[sanic docs](https://www.beibq.cn/book/xgwl906)
+
+[world in the future](http://survivor.ruanyifeng.com/)
+
+[cmd.fm](http://cmd.to/fm)
+
+[tumblr tangbure](https://www.tangbure.org/)
+
+[tumblr tubefairs](https://www.tubefairs.com/)
+
+[tumblr download](https://tumblr.zxzx.party/)
+
+[verycd](http://www.verycd.gdajie.com/)
+
+[591mov](https://591mov.com/zh-hans/)
+
+[zongziso](https://www.zhongziso.com/)
+
+[bt-tracker](https://newtrackon.com/)
+
+[ero-video](https://ero-video.net/)
+
+[instantfap](http://instantfap.com/)
+
+[av01.tv](https://www.av01.tv/girls/)
+
+[myavsuper](https://myavsuper.com/)
+
+[avgle](https://avgle.github.io/doc/)
+
+[tv.now](https://tv.now.sh/top)
+
+[vip 1pk](http://vip.1pk.it/)
+
+[vip video](http://vip.72du.com/)
+
+[windows93](http://www.windows93.net/)
+
+[algorithm](https://algorithm.yuanbin.me/)
