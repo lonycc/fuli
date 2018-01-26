@@ -7,11 +7,11 @@
 
 **beauty.sql**
 
-> 从高考派http://www.gaokaopai.com/爬取的学校名称和校花数据, 原站已取消相应模块, 但图片链接还有效.
+> 从高考派 http://www.gaokaopai.com/ 爬取的学校名称和校花数据, 原站已取消相应模块, 但图片链接还有效.
 
 **nihaowua.html**
 
-> V2骚话, 采集自https://www.nihaowua.com, 跑了上万次都抓不全啊.
+> V2骚话, 采集自 https://www.nihaowua.com, 跑了上万次都抓不全啊.
 
 **guanren.html**
 
