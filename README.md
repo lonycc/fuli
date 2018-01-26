@@ -16,3 +16,7 @@
 **guanren.html**
 
 > 从某个网站抓到的m3u8地址列表, 需要配合Chrome扩展[Native HLS Playback](https://chrome.google.com/webstore/detail/native-hls-playback/emnphkkblegpebimobpbekeedfgemhof?utm_source=chrome-ntp-icon)播放.
+
+**jporn.html**
+
+> 从jporn网站抓取的av播放地址.
