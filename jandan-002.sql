@@ -528,3 +528,8 @@ insert into jandan(large, mw) values("https://wx3.sinaimg.cn/large/0072bW0Xly1fo
 insert into jandan(large, mw) values("https://wx2.sinaimg.cn/large/0072bW0Xly1fo27so95zdj30lm0u3n19.jpg", "https://wx2.sinaimg.cn/mw600/0072bW0Xly1fo27so95zdj30lm0u3n19.jpg");
 insert into jandan(large, mw) values("https://wx4.sinaimg.cn/large/0072bW0Xly1fo27ir5bgcj30tn18g7c4.jpg", "https://wx4.sinaimg.cn/mw600/0072bW0Xly1fo27ir5bgcj30tn18g7c4.jpg");
 insert into jandan(large, mw) values("https://ww3.sinaimg.cn/large/006XNEY7gy1fo285q7639j31he0zjmzp.jpg", "https://ww3.sinaimg.cn/mw600/006XNEY7gy1fo285q7639j31he0zjmzp.jpg");
+insert into jandan(large, mw) values('https://wx1.sinaimg.cn/large/8fe4e036ly1fo0wcqbcd4j20k00k0774.jpg','https://wx1.sinaimg.cn/mw600/8fe4e036ly1fo0wcqbcd4j20k00k0774.jpg');
+insert into jandan(large, mw) values('https://wx1.sinaimg.cn/large/8fe4e036ly1fo0wcpg4bmj20u00u040z.jpg','https://wx1.sinaimg.cn/mw600/8fe4e036ly1fo0wcpg4bmj20u00u040z.jpg');
+insert into jandan(large, mw) values('https://wx4.sinaimg.cn/large/8fe4e036ly1fo0wcosxadj20kc0kc0uc.jpg','https://wx4.sinaimg.cn/mw600/8fe4e036ly1fo0wcosxadj20kc0kc0uc.jpg');
+insert into jandan(large, mw) values('https://wx4.sinaimg.cn/large/8fe4e036ly1fo0wco0usfj20u00u0adr.jpg','https://wx4.sinaimg.cn/mw600/8fe4e036ly1fo0wco0usfj20u00u0adr.jpg');
+
