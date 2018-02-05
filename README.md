@@ -21,6 +21,6 @@
 
 > 从jporn网站抓取的av播放地址.
 
-**js_lesson.html**
+**lesson.html**
 
 > 从 https://www.rails365.net/ 获取到的视频课程列表.
