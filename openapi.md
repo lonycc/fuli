@@ -182,3 +182,29 @@
 `114.114.115.110`
 
 [全国DNS服务器](http://us.ip.cn/dns.html)
+
+**jandan.net**
+
+图片版块 `http://i.jandan.net/?oxwlxojflwblxbsapi=jandan.get_pic_comments&page=1`
+
+文字版块 `http://i.jandan.net/?oxwlxojflwblxbsapi=jandan.get_duan_comments&page=1`
+
+稿件版块 `http://i.jandan.net/?oxwlxojflwblxbsapi=get_recent_posts&include=url,date,tags,author,title,excerpt,comment_count,comment_status,custom_fields&page=1&custom_fields=thumb_c,views&dev=1`
+
+稿件详情 `http://i.jandan.net/?oxwlxojflwblxbsapi=get_post&id=95834&include=content,date,modified`
+
+稿件评论列表 `http://i.jandan.net/?oxwlxojflwblxbsapi=get_post&id=95821&include=comments`
+
+提交评论 `http://i.jandan.net/jandan-comment.php`
+
+request-body `comment=&email=&author=&comment_post_ID=`
+
+request-head
+
+```
+content-type : application/x-www-form-urlencoded  [only when post]
+user-agent : Jandan Android App V5.1.0.0
+host : i.jandan.net
+connection : Keep-Alive
+content-length : 0  [when get this is 0, when post should compute the request-body length]
+```
