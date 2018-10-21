@@ -105,6 +105,8 @@
 
 `http://fanyi.youdao.com/fanyiapi.do?keyfrom=ysjsywhrs&key=1894924488&type=data&doctype=json&version=1.1&q=`
 
+`http://fanyi.youdao.com/openapi.do?keyfrom=node-translator&key=2058911035&type=data&doctype=json&version=1.1&q=`
+
 # 豆瓣fm
 
 `https://douban.fm/j/v2/playlist?app_name=radio_website&version=100&channel=0&type=n`
