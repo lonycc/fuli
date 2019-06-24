@@ -185,6 +185,20 @@
 
 [全国DNS服务器](http://us.ip.cn/dns.html)
 
+**获取本机ip**
+
+`curl cip.cc`
+
+`curl myip.ipip.net`
+
+`curl icanhazip.com`
+
+`curl www.trackip.net/i`
+
+`curl https://ipecho.net/plain`
+
+`curl ipinfo.io/ip`
+
 **jandan.net**
 
 图片版块 `http://i.jandan.net/?oxwlxojflwblxbsapi=jandan.get_pic_comments&page=1`
