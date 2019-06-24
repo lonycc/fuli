@@ -68,10 +68,10 @@
 `http://tingapi.ting.baidu.com/v1/restserver/ting?from=qianqian&version=2.1.0&method=baidu.ting.plaza.getNewSongs&format=json&limit=50`
 
 ## 16.搜索建议
-`http://sug.music.baidu.com/info/suggestion?word={value}&version=2&from=0`
+`http://sug.qianqian.com/info/suggestion?from=web&format=json&word=中&version=2&callback=window.baidu.sug&third_type=0&client_type=0&_=2019-06-24T15:55:42.974Z`
 
 ## 17.具体歌曲
-`http://music.baidu.com/data/music/fmlink?songIds={}&type=flac`
+`http://music.baidu.com/data/music/fmlink?songIds=1234567&type=flac`
 
 
 <br/><br/>
