@@ -205,7 +205,7 @@
 
 文字版块 `http://i.jandan.net/?oxwlxojflwblxbsapi=jandan.get_duan_comments&page=1`
 
-稿件版块 `http://i.jandan.net/?oxwlxojflwblxbsapi=get_recent_posts&include=url,date,tags,author,title,excerpt,comment_count,comment_status,custom_fields&page=1&custom_fields=thumb_c,views&dev=1`
+稿件版块 `http://i.jandan.net/?oxwlxojflwblxbsapi=get_recent_posts&count=10&page=1`
 
 稿件详情 `http://i.jandan.net/?oxwlxojflwblxbsapi=get_post&id=95834&include=content,date,modified`
 
