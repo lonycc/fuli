@@ -198,29 +198,3 @@
 `curl https://ipecho.net/plain`
 
 `curl ipinfo.io/ip`
-
-**jandan.net**
-
-图片版块 `http://i.jandan.net/?oxwlxojflwblxbsapi=jandan.get_pic_comments&page=1`
-
-文字版块 `http://i.jandan.net/?oxwlxojflwblxbsapi=jandan.get_duan_comments&page=1`
-
-稿件版块 `http://i.jandan.net/?oxwlxojflwblxbsapi=get_recent_posts&count=10&page=1`
-
-稿件详情 `http://i.jandan.net/?oxwlxojflwblxbsapi=get_post&id=95834&include=content,date,modified`
-
-稿件评论列表 `http://i.jandan.net/?oxwlxojflwblxbsapi=get_post&id=95821&include=comments`
-
-提交评论 `http://i.jandan.net/jandan-comment.php`
-
-request-body `comment=&email=&author=&comment_post_ID=`
-
-request-head
-
-```
-content-type : application/x-www-form-urlencoded  [only when post]
-user-agent : Jandan Android App V5.1.0.0
-host : i.jandan.net
-connection : Keep-Alive
-content-length : 0  [when get this is 0, when post should compute the request-body length]
-```
